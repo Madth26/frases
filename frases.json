@@ -23,7 +23,7 @@
     "notas": "Escaneado automáticamente de IMG_4010.png (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1VdqhQwV7mYezMtsOdwpTeM5NzAAAc0aX/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e64ca5a0",
@@ -75,7 +75,7 @@
     "notas": "Escaneado automáticamente de IMG_4009.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1LZAdgn1j1ooDLqsn-MHj2I7pYg_SKSvh/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "a4609355",
@@ -92,7 +92,7 @@
   },
   {
     "id": "bd906c5b",
-    "texto": "\"No tuvieron un final feliz pero sonriendo todas las horas que pasaron juntos, solo por eso, valió la pena.\"",
+    "texto": "No tuvieron un final feliz pero sonriendo todas las horas que pasaron juntos, solo por eso, valió la pena.",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "tuvieron, final, feliz, sonriendo, todas",
@@ -101,7 +101,7 @@
     "notas": "Escaneado automáticamente de IMG_4003.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/13r3pX034U_52CzhgAPaxsrGvDdOzejta/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "2d36dde4",
@@ -117,21 +117,8 @@
     "verificado": true
   },
   {
-    "id": "c46a2871",
-    "texto": "Los errores pueden corregirse. Si te rindes, entonces sí es un fracaso",
-    "autor": "",
-    "tipo": "poema",
-    "tags": "jamas, podre, superar, frase, errores",
-    "fecha": "2026-07-11",
-    "proyecto": "",
-    "notas": "Escaneado automáticamente de IMG_3995.PNG (revisar limpieza de OCR)",
-    "imagenUrl": "https://drive.google.com/file/d/1YQPOQ8wa0YJzqSNYqxCgWsnrwefuBRfz/view?usp=drivesdk",
-    "favorito": false,
-    "verificado": true
-  },
-  {
     "id": 90079018,
-    "texto": "Qué voy a estar mirando a otra mujer, si la que tengo me fascina, me encanta, me vuelve loco y me obsesiona por completo. Para mí, no hay nadie que se compare con ella.",
+    "texto": "Qué voy a estar mirando a otra\nmujer, si la que tengo me fascina, me encanta, me vuelve loco y me obsesiona por completo. Para mí, no hay nadie que se compare con ella.",
     "autor": "",
     "tipo": "poema",
     "tags": "mirando, mujer, fascina, encanta, vuelve",
@@ -166,7 +153,7 @@
     "notas": "Escaneado automáticamente de IMG_3983.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1u2Z8_uw8WRWt9QkO2amhdFpOnI8s1pf9/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "f478a45a",
@@ -179,11 +166,11 @@
     "notas": "Escaneado automáticamente de IMG_3981.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1ayqxuiZxCB5WEvG_c0bsrDMM0akXbWlJ/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "f8607d48",
-    "texto": "\"Te va a destruir de la manera más bella. y cuando se vaya, finalmente entenderás por qué los huracanes tienen nombres de personas.\"",
+    "texto": "Te va a destruir de la manera más bella. y cuando se vaya, finalmente entenderás por qué los huracanes tienen nombres de personas.",
     "autor": "Mario Benedetti",
     "tipo": "frase",
     "tags": "destruir, manera, bella, vaya, finalmente",
@@ -192,11 +179,11 @@
     "notas": "Escaneado automáticamente de IMG_3975.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1a6cYBwqRl12DKl4F84CBLWDjC-2ux9YX/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "27ed4daa",
-    "texto": "\"Te quiero así, como eres. Con todo lo bueno que no ves,\ncon todo lo malo\nque dices\ntener.\"",
+    "texto": "Te quiero así, como eres. Con todo lo bueno que no ves,\ncon todo lo malo\nque dices\ntener.",
     "autor": "",
     "tipo": "poema",
     "tags": "quiero, bueno, malo, dices",
@@ -205,7 +192,7 @@
     "notas": "Escaneado automáticamente de IMG_3974.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1wRlx53U2y-D8cgt3AgyfZdQvvrngvdj8/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e404b91b",
@@ -218,7 +205,7 @@
     "notas": "Escaneado automáticamente de IMG_3962.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1KCGC4RX5FT17lbMCnr6GolQ9I59e5HFK/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "cdcfce98",
@@ -231,11 +218,11 @@
     "notas": "Escaneado automáticamente de IMG_3961.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1Og5mGvrxsGmMTkgRkUFQ8r8wQ27LC9m9/view?usp=drivesdk",
     "favorito": true,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "637daf21",
-    "texto": "\"Le conté mi pasado, mi presente y mi futuro. Le susurré mis miedos y le grité mis sueños. Le enseñé mis puntos débiles, y se fue\"",
+    "texto": "Le conté mi pasado, mi presente y mi futuro. Le susurré mis miedos y le grité mis sueños. Le enseñé mis puntos débiles, y se fue",
     "autor": "Charles Bukowski",
     "tipo": "frase",
     "tags": "pasado, miedos, suenos, conte, presente",
@@ -244,11 +231,11 @@
     "notas": "Escaneado automáticamente de IMG_3969.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1-qLWImqIVF1RSGcz0n6YuuyOEapQMKx6/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e5876b8f",
-    "texto": "Te estás equivocando\nconmigo pero si tú crees que ese es el trato que yo merezco, no puedo hacer nada más que esperar a cansarme para poder soltarte.",
+    "texto": "Te estás equivocando conmigo pero si tú crees que ese es el trato que yo merezco, no puedo hacer nada más que esperar a cansarme para poder soltarte.",
     "autor": "",
     "tipo": "poema",
     "tags": "equivocando, conmigo, crees, trato, merezco",
@@ -257,11 +244,11 @@
     "notas": "Escaneado automáticamente de IMG_3968.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1hvgVfWo-8yNtMPtU2dREQaW4kXlcXE6z/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "af67e5bc",
-    "texto": "\"Uno puede dar lo que no tiene. Por ejemplo, una persona puede dar felicidad y no ser feliz;\npuede dar miedo y no estar aterrada.\nPuede dar sabiduría y no tenerla.\nTodo es tan misterioso en el mundo...”.",
+    "texto": "Uno puede dar lo que no tiene. Por ejemplo, una persona puede dar felicidad y no ser feliz;\npuede dar miedo y no estar aterrada.\nPuede dar sabiduría y no tenerla.\nTodo es tan misterioso en el mundo...",
     "autor": "Jorge Luis Borges",
     "tipo": "poema",
     "tags": "puede, ejemplo, persona, felicidad, feliz",
@@ -270,7 +257,7 @@
     "notas": "Escaneado automáticamente de IMG_3965.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1dGymDjbBgs3XAUf8Sv8tbgxEZrzjNZvG/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "8289f3eb",
@@ -283,7 +270,7 @@
     "notas": "Escaneado automáticamente de IMG_3923.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/10IVDoRXomg44RK9UguaYYmTSkEBbxEcU/view?usp=drivesdk",
     "favorito": true,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "b12c78cc",
@@ -296,7 +283,7 @@
     "notas": "Escaneado automáticamente de IMG_3920.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1PBMl23tMNBkhaV2HBXFi9Eqms8XcKb85/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "c43e1d73",
@@ -309,7 +296,7 @@
     "notas": "Escaneado automáticamente de IMG_3922.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1XulkfPTdSy_0gTEmWrMHesW_gj28PfHC/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "4ca1ae2e",
@@ -322,7 +309,7 @@
     "notas": "Escaneado automáticamente de IMG_3933.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1mIi_1A_o2l8pJkx_hLoqhkGSnv2JT0JA/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "71d7d745",
@@ -335,11 +322,11 @@
     "notas": "Escaneado automáticamente de IMG_3945.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1pkcUuTrXYt8Nwv4a4st3s4xkgnCr5DwP/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "437bc22c",
-    "texto": "\"Lo peor del asunto es que ambos se amaban pero los dos eran\ndemasiado jóvenes y no sabían\ncomo amar.\"",
+    "texto": "Lo peor del asunto es que ambos se amaban pero los dos eran\ndemasiado jóvenes y no sabían como amar.",
     "autor": "The Little Prince",
     "tipo": "poema",
     "tags": "peor, asunto, ambos, amaban, eran",
@@ -348,11 +335,11 @@
     "notas": "Escaneado automáticamente de IMG_3952.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1rrTESL7IgjLrHRllZuN_Yn08sph_gGjC/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "8d998e02",
-    "texto": "\"Es una locura odiar a todas las rosas porque una te pinchó\"",
+    "texto": "Es una locura odiar a todas las rosas porque una te pinchó",
     "autor": "The Little Prince",
     "tipo": "frase",
     "tags": "locura, odiar, todas, rosas, pincho",
@@ -361,11 +348,11 @@
     "notas": "Escaneado automáticamente de IMG_3951.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1_XuKx0Jj86u9qhzMNrcKlaHaqBrR027S/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "3e0601c5",
-    "texto": "\"Los recuerdos son peores que las balas... porque una bala te mata una vez. Un recuerdo te mata cada\nnoche.\" \nVez las diferente.\nEstoy cansado de vivir de recuerdos, despertarme con el mismo nudo, de cerrar los ojos y que el pasado entre sin pedir permiso. La nostalgia es un veneno lento que se disfraza de cariño, te hace creer que lo de antes fue mejor, que nada nuevo va a estar a la altura, que cualquier intento de vivir ahora es una traición a lo que fue. Cada recuerdo es una bala que no mata de golpe, sino que se queda dentro, infectando el presente, robándome la fuerza para abrir la puerta y salir a buscar algo distinto. Me mata cada noche porque me convence de que el mejor capítulo de mi vida ya se escribió... y yo solo soy el lector que repite la misma página hasta que se le acaba la vida.",
+    "texto": "\"Los recuerdos son peores que las balas... porque una bala te mata una vez. Un recuerdo te mata cada\nnoche.\"",
     "autor": "",
     "tipo": "frase",
     "tags": "mata, bala, recuerdo, recuerdos, noche",
@@ -374,7 +361,7 @@
     "notas": "Escaneado automáticamente de IMG_3917.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/16c6Oq0wKxoGhcdFfcqANzjIQUJfXtNOg/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "dbe1a7b0",
@@ -387,7 +374,7 @@
     "notas": "Escaneado automáticamente de IMG_3916.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1MhafoBcaYA4LpsCs5CdzFm83kSnoOvOM/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "71a8a629",
@@ -400,11 +387,11 @@
     "notas": "Escaneado automáticamente de IMG_3914.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1atwJ7EyOW7_cqS-b6xbjhREkx9c8amY4/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "4d9d0ce7",
-    "texto": "Un día voy a escribir todo lo que siento. Y vas a leerlo y a\npreguntarte si se trata de ti. Y probablemente si. Y posiblemente ya no.\"",
+    "texto": "Un día voy a escribir todo lo que siento. Y vas a leerlo y a\npreguntarte si se trata de ti. Y probablemente si. Y posiblemente ya no.",
     "autor": "Mario Benedetti",
     "tipo": "frase",
     "tags": "escribir, siento, leerlo, preguntarte, trata",
@@ -413,7 +400,7 @@
     "notas": "Escaneado automáticamente de IMG_3913.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1aEYesE608QzuBfRaPcqiRg24M-RoaOqS/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "d1c64d1d",
@@ -426,11 +413,11 @@
     "notas": "Escaneado automáticamente de IMG_3912.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1exNFL-khCF412fjU4X157HRe_Z4dMeCx/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "99a451e7",
-    "texto": "\"Hoy también me hiciste\nfalta, hoy me acordé de ti,\ncomo lo hice ayer, como\nseguramente lo haré\nmañana. Te extraño de la\nmanera más silenciosa que pueda existir.\"",
+    "texto": "Hoy también me hiciste\nfalta, hoy me acordé de ti,\ncomo lo hice ayer, como\nseguramente lo haré\nmañana. Te extraño de la\nmanera más silenciosa que pueda existir.",
     "autor": "",
     "tipo": "poema",
     "tags": "aldair, frase, hiciste, falta, acorde",
@@ -439,11 +426,11 @@
     "notas": "Escaneado automáticamente de IMG_3911.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1Boqxb3pm3iA1BZj01GZWGQMNSIvI_vxq/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e959a89d",
-    "texto": "Mis ojos morirán algún día... pero incluso en su último instante llevarán consigo la imagen de lo más hermoso\nque existió en mi mundo.\nY aunque el tiempo me borre, aunque el olvido reclame mi nombre,\njamás podrán decir que mis ojos\nno conocieron el paraíso,\nporque alguna vez\nte miraron a ti.",
+    "texto": "Mis ojos morirán algún día... pero incluso en su último instante llevarán consigo la imagen de lo más hermoso\nque existió en mi mundo. Y aunque el tiempo me borre, aunque el olvido reclame mi nombre, jamás podrán decir que mis ojos no conocieron el paraíso, porque alguna vez te miraron a ti.",
     "autor": "",
     "tipo": "poema",
     "tags": "ojos, aunque, frases, moriran, algun",
@@ -452,7 +439,7 @@
     "notas": "Escaneado automáticamente de IMG_3910.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1vCKSxNWILn21BP88dmJkmRrQygRJ0hLC/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "a19283e1",
@@ -465,7 +452,7 @@
     "notas": "Escaneado automáticamente de IMG_3907.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1MBSwjAcMKHjy-fE15JTenuPRDQodKxtz/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "038dbe21",
@@ -478,11 +465,11 @@
     "notas": "Escaneado automáticamente de IMG_3905.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/158hpnqpTR2FJtzWivoBoA8sHcT75fTZR/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "1e5b6dfa",
-    "texto": "\"Ya no quiero conocer a alguien más.\nContigo ha terminado la\nbúsqueda, te elijo con la\ntranquilidad de que también... Te elegiré\nmañana\".",
+    "texto": "Ya no quiero conocer a alguien más.\nContigo ha terminado la\nbúsqueda, te elijo con la\ntranquilidad de que también... Te elegiré\nmañana",
     "autor": "",
     "tipo": "poema",
     "tags": "alejandra, pizarnik, quiero, conocer, busqueda",
@@ -491,11 +478,11 @@
     "notas": "Escaneado automáticamente de IMG_3903.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1s3GkCUOphumD27LW0VwJgF-yQ09L9afF/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "5d4c3e68",
-    "texto": "\"Mis escritos trataban sobre ti, lo único que hacia en ellos era llorar lo que no podía llorar en tu pecho\"",
+    "texto": "Mis escritos trataban sobre ti, lo único que hacia en ellos era llorar lo que no podía llorar en tu pecho",
     "autor": "",
     "tipo": "poema",
     "tags": "llorar, escritos, trataban, unico, hacia",
@@ -504,11 +491,11 @@
     "notas": "Escaneado automáticamente de IMG_3901.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/109sJ7Y1pJIvSboy66n-2BXDo6jmaTcdK/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "3ef70203",
-    "texto": "\"Quien nunca ha sangrado por amor todavía no sabe lo que significa amar\"",
+    "texto": "Quien nunca ha sangrado por amor todavía no sabe lo que significa amar",
     "autor": "Charles Bukowski",
     "tipo": "poema",
     "tags": "nunca, sangrado, amor, todavia, sabe",
@@ -517,11 +504,11 @@
     "notas": "Escaneado automáticamente de IMG_3885.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/11jZEUHWejF3yAhPt7odj-ViUFlvhrv1z/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "3a9ce54f",
-    "texto": "\"La distancia no es un problema. ab El problema somos los humanos, que no sabemos amar sin tocar, sin ver o sin escuchar. Y el amor se siente con el corazón, no solo con el cuerpo”",
+    "texto": "La distancia no es un problema. ab El problema somos los humanos, que no sabemos amar sin tocar, sin ver o sin escuchar. Y el amor se siente con el corazón, no solo con el cuerpo",
     "autor": "Gabriel García Márque",
     "tipo": "frase",
     "tags": "distancia, problema, relacion, somos, humanos",
@@ -530,11 +517,11 @@
     "notas": "Escaneado automáticamente de IMG_3864.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/12eZ20sWGOOCdQeBvRRmoNcONIn0AtZ-r/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "26a6fd2c",
-    "texto": "\"Da igual. Prueba otra vez. Fracasa otra vez. Fracasa mejor\"",
+    "texto": "Da igual. Prueba otra vez. Fracasa otra vez. Fracasa mejor",
     "autor": "Samuel Beckett",
     "tipo": "frase",
     "tags": "fracasa, igual, prueba, mejor",
@@ -543,7 +530,7 @@
     "notas": "Escaneado automáticamente de IMG_3875.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/13n90HEazy_NnAB-jq3nYO47BIYEPKM6v/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "a7df39fb",
@@ -556,7 +543,7 @@
     "notas": "Escaneado automáticamente de IMG_3884.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/14KyZ-_9V_xWrlO6Ws-iSWU3gTR40_kdd/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "006ed8aa",
@@ -569,11 +556,11 @@
     "notas": "Escaneado automáticamente de IMG_3870.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1Ab2gKiciY8o98f0ias8VjpjxHScZJ6vv/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "9e527511",
-    "texto": "\"Quizás por eso desconfío de la memoria. La gente suele hablar de ella como si fuera una biblioteca. Un lugar ordenado donde los acontecimientos esperan pacientemente a ser consultados.\nPero no funciona así.\nLa memoria se parece más a un novelista caprichoso. Corrige diálogos. Borra silencios. Añade significados que nunca estuvieron allí. Convierte los errores en destinos y las casualidades en señales.\nQuién sabe cuántas veces he reescrito a la niña de ojos claros sin darme cuenta.\nQuién sabe cuántas palabras le atribuí que jamás pronunció.\nQuizás ella nunca fue tan sabia\nQuizás yo nunca fui tan ingenuo.\nQuizás ninguno de los dos se parecía demasiado a los personajes que sobreviven en estas páginas.",
+    "texto": "Quizás por eso desconfío de la memoria. La gente suele hablar de ella como si fuera una biblioteca. Un lugar ordenado donde los acontecimientos esperan pacientemente a ser consultados.\nPero no funciona así.\nLa memoria se parece más a un novelista caprichoso. Corrige diálogos. Borra silencios. Añade significados que nunca estuvieron allí. Convierte los errores en destinos y las casualidades en señales.\nQuién sabe cuántas veces he reescrito a la niña de ojos claros sin darme cuenta.\nQuién sabe cuántas palabras le atribuí que jamás pronunció.\nQuizás ella nunca fue tan sabia\nQuizás yo nunca fui tan ingenuo.\nQuizás ninguno de los dos se parecía demasiado a los personajes que sobreviven en estas páginas.",
     "autor": "",
     "tipo": "frase",
     "tags": "quizas, nunca, memoria, sabe, cuantas",
@@ -582,7 +569,7 @@
     "notas": "Escaneado automáticamente de IMG_3840.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1D_R0X974N1oElyEj78VW2VYriaPa6bMu/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "de4655b0",
@@ -595,7 +582,7 @@
     "notas": "Escaneado automáticamente de IMG_3857.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1EmmU51dETe52i00hTBonGda-m10yk9-d/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "98e5bc49",
@@ -608,7 +595,7 @@
     "notas": "Escaneado automáticamente de IMG_3863.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1J4mcgcOtMofz4wo2CnMGwLH9TbUOQW24/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "0f87aaed",
@@ -621,7 +608,7 @@
     "notas": "Escaneado automáticamente de IMG_3883.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1JD-YWFoJ79uNvXTgt-wrgOZZPxwaZ1--/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "76a0be5c",
@@ -634,7 +621,7 @@
     "notas": "Escaneado automáticamente de IMG_3880.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1MVGcbW2EHlSDvBrWGD60KQGMCga6pUPJ/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "54ea82ac",
@@ -647,7 +634,7 @@
     "notas": "Escaneado automáticamente de IMG_3888.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1OC_dITB-1_S7SMSXqcKvH-or5LO6R4s1/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "9157ae25",
@@ -660,11 +647,11 @@
     "notas": "Escaneado automáticamente de IMG_3844.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1RVacH7lC6V8LXBx-4hzq18MhtPAHfooY/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "7b51059c",
-    "texto": "\"Puede que no tenga victorias notables, pero puedo sorprenderte con las derrotas a las que logré sobrevivir\".",
+    "texto": "Puede que no tenga victorias notables, pero puedo sorprenderte con las derrotas a las que logré sobrevivir",
     "autor": "Antón Chéjov",
     "tipo": "poema",
     "tags": "anton, chejov, 1860, 1904, puede",
@@ -673,11 +660,11 @@
     "notas": "Escaneado automáticamente de IMG_3899.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1S3HMUXWhPYqzX4JvYqq_Lpqfvk602Awd/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "69484b2d",
-    "texto": "\"No se debe confundir la verdad con la opinión de la mayoría\"",
+    "texto": "No se debe confundir la verdad con la opinión de la mayoría",
     "autor": "Literatura Abierta",
     "tipo": "poema",
     "tags": "debe, confundir, verdad, opinion, mayoria",
@@ -686,11 +673,11 @@
     "notas": "Escaneado automáticamente de IMG_3874.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1TF8gyzFANlilifscR3HYso_Y5nmuWyew/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "c822e34d",
-    "texto": "\"Pocos ven lo que somos, pero todos ven lo que aparentamos.\"",
+    "texto": "Pocos ven lo que somos, pero todos ven lo que aparentamos.",
     "autor": "Nicolás Maquiavelo",
     "tipo": "frase",
     "tags": "pocos, somos, aparentamos, nicolas, maquiavelo",
@@ -699,24 +686,11 @@
     "notas": "Escaneado automáticamente de IMG_3871.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1UewYiJQh_vaI-1HEvBzaGRJSWKqZNhmE/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
-  },
-  {
-    "id": "8f40abd6",
-    "texto": "\"Pienso en esa cara tierna, esos\nojos fieros, ese cuerpo deseable...\nAmor mío, sé feliz al borde de tu\nocéano... Todo lo que querría es que leyeras aquí la certeza que necesitas, mi pensamiento constante, la ternura, el amor, la\ninfinita comprensión en la que vivo\ncontigo\".",
-    "autor": "Albert Camus",
-    "tipo": "poema",
-    "tags": "albert, camus, amor, pienso, cara",
-    "fecha": "2026-07-11",
-    "proyecto": "",
-    "notas": "Escaneado automáticamente de IMG_3866.PNG (revisar limpieza de OCR)",
-    "imagenUrl": "https://drive.google.com/file/d/1Xq_grC0OSkcEhY_M2a9KICRUswnARLmy/view?usp=drivesdk",
-    "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "6e36c54d",
-    "texto": "\"Sabes, estaba yo pensando hace ratito que tú eres como el mar... Bueno, pero esto no es una carta de amor, es una carta de negocios. Estoy tratando de resolver nuestro negocio, el tuyo y el mío, para que los dos tengamos algo que ganar, yo más que tú, porque yo te gano a ti, y tú, en cambio, sólo lograrás obtener a este muchacho desorientado y enfermo, no tan desorientado que digamos, pero sí muy enfermo de amor por ti. Te ODIO, mujercita de mi alma.\"",
+    "texto": "Estoy tratando de resolver nuestro negocio, el tuyo y el mío, para que los dos tengamos algo que ganar, yo más que tú, porque yo te gano a ti, y tú, en cambio, sólo lograrás obtener a este muchacho desorientado y enfermo, no tan desorientado que digamos, pero sí muy enfermo de amor por ti. Te ODIO, mujercita de mi alma.",
     "autor": "",
     "tipo": "frase",
     "tags": "carta, amor, desorientado, enfermo, sabes",
@@ -725,11 +699,11 @@
     "notas": "Escaneado automáticamente de IMG_3852.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1ZXQxO3rBzlBJD8oOIWnnR28dd4ETStiv/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "19e372cc",
-    "texto": "\"Ni el amor es una jaula, ni la libertad es estar solo. El amor\nes la libertad de volar acompañado, es dejar ser sin poseer\"",
+    "texto": "Ni el amor es una jaula, ni la libertad es estar solo. El amor\nes la libertad de volar acompañado, es dejar ser sin poseer",
     "autor": "Gabriel García Márquez",
     "tipo": "poema",
     "tags": "gabriel, garcia, marquez, amor, libertad",
@@ -738,11 +712,11 @@
     "notas": "Escaneado automáticamente de IMG_3869.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1_LvZIGgYuROtvPjHQpSbph-P4s9kQEjT/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "793307b2",
-    "texto": "\"Espero que puedas encontrar a alguien que hable tu idioma. Para que\nno tengas que pasar el\nresto de tu vida,\ntraduciendo tu alma.\"",
+    "texto": "Espero que puedas encontrar a alguien que hable tu idioma. Para que\nno tengas que pasar el\nresto de tu vida,\ntraduciendo tu alma.",
     "autor": "Mario benedetti",
     "tipo": "poema",
     "tags": "espero, puedas, encontrar, alguien, hable",
@@ -751,7 +725,7 @@
     "notas": "Escaneado automáticamente de IMG_3896.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1cOor5aRvT3YAJhLor4brVPsQe3_-7jm0/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "11c71d0c",
@@ -764,11 +738,11 @@
     "notas": "Escaneado automáticamente de IMG_3867.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1fxYaAt5H3eXbc1k_MJ15cZVMj5waGIdm/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "1d3491fd",
-    "texto": "\"No obligues a nadie a quedarse, mejor obligamos a irse; quien insista en quedarse\nes quien vale la pena\"",
+    "texto": "No obligues a nadie a quedarse, mejor obligamos a irse; quien insista en quedarse\nes quien vale la pena",
     "autor": "Gabriel García Márquez",
     "tipo": "poema",
     "tags": "gabriel, garcia, marquez, quedarse, obligues",
@@ -777,20 +751,7 @@
     "notas": "Escaneado automáticamente de IMG_3865.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1g7rWbw6cz5FofYEIaycC8zPsQ_jQC6L6/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
-  },
-  {
-    "id": "b2eb665f",
-    "texto": "\"El amor siempre duele un poco, porque importa.\"\n\"Me alejé porque el amor no debería doler.\"",
-    "autor": "Franz Kafka",
-    "tipo": "poema",
-    "tags": "amor, siempre, duele, importa, fiodor",
-    "fecha": "2026-07-11",
-    "proyecto": "",
-    "notas": "Escaneado automáticamente de IMG_3856.PNG (revisar limpieza de OCR)",
-    "imagenUrl": "https://drive.google.com/file/d/1iPWuYbXAxm3IGUyNgxv9bQ-Qvsa1xwQL/view?usp=drivesdk",
-    "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "2208e353",
@@ -807,7 +768,7 @@
   },
   {
     "id": "73c40540",
-    "texto": "\"La gente tiene tantas cosas buenas que decir de ti, pero primero tienes que morir\"",
+    "texto": "La gente tiene tantas cosas buenas que decir de ti, pero primero tienes que morir",
     "autor": "",
     "tipo": "poema",
     "tags": "gente, tantas, cosas, buenas, decir",
@@ -816,7 +777,7 @@
     "notas": "Escaneado automáticamente de IMG_3876.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1kyCnBDgzDQ0U_ZSwS_33apmUdtHZPLAh/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "712193ae",
@@ -833,7 +794,7 @@
   },
   {
     "id": "2ef11ae3",
-    "texto": "\"Creo que allí empezó mi ruina:\nel día en que aprendí que incluso sus mentiras podían sonar más hermosas que la verdad.\nDespués de eso, quise convencerme de que podría acostumbrarme a perderla.\nPero nadie se acostumbra realmente a ciertas mujeres.\nPorque la niña de ojos claros tenía esa extraña habilidad de desaparecer incluso cuando todavía estaba conmigo. A veces la veía sentada frente a mí, jugando\ndistraídamente con la taza de café, y aun así sentía que ya se estaba marchando hacia algún lugar donde yo no podía seguirla.\nNunca perteneció del todo a nadie. Ni siquiera a sí misma.\nTal vez por eso la amé tanto. Hay hombres que se enamoran de la tranquilidad, de las mujeres que construyen hogares y aprenden los nombres de las plantas. Yo no. Yo tuve la desgracia de enamorarme de una muchacha que parecía hecha únicamente para el movimiento, para las despedidas, para esa clase de libertad que termina pareciéndose demasiado a la crueldad...",
+    "texto": "Creo que allí empezó mi ruina:\nel día en que aprendí que incluso sus mentiras podían sonar más hermosas que la verdad.\nDespués de eso, quise convencerme de que podría acostumbrarme a perderla.\nPero nadie se acostumbra realmente a ciertas mujeres.\nPorque la niña de ojos claros tenía esa extraña habilidad de desaparecer incluso cuando todavía estaba conmigo. A veces la veía sentada frente a mí, jugando\ndistraídamente con la taza de café, y aun así sentía que ya se estaba marchando hacia algún lugar donde yo no podía seguirla.\nNunca perteneció del todo a nadie. Ni siquiera a sí misma.\nTal vez por eso la amé tanto. Hay hombres que se enamoran de la tranquilidad, de las mujeres que construyen hogares y aprenden los nombres de las plantas. Yo no. Yo tuve la desgracia de enamorarme de una muchacha que parecía hecha únicamente para el movimiento, para las despedidas, para esa clase de libertad que termina pareciéndose demasiado a la crueldad...",
     "autor": "",
     "tipo": "frase",
     "tags": "incluso, nadie, mujeres, nina, ojos",
@@ -842,7 +803,7 @@
     "notas": "Escaneado automáticamente de IMG_3836.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1lNIvxr0PJSsGWEOdKZ1AZfsIrD-TH5OX/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "813ca33f",
@@ -868,11 +829,11 @@
     "notas": "Escaneado automáticamente de IMG_3886.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1mbd3OZY8lq0D6jXJP2xgWjzhW-8uZPHC/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "1ee6a029",
-    "texto": "Nadie pierde a nadie, porque nadie posee a nadie. Esa es la verdadera experiencia de la libertad: tener lo más importante del mundo sin poseerlo.\nNo todo lo que amamos nos\npertenece.\nNo todo aquello que amamos\ntermina siendo nuestro",
+    "texto": "Nadie pierde a nadie, porque nadie posee a nadie. Esa es la verdadera experiencia de la libertad: tener lo más importante del mundo sin poseerlo.\nNo todo lo que amamos nos pertenece.\nNo todo aquello que amamos termina siendo nuestro",
     "autor": "",
     "tipo": "poema",
     "tags": "nadie, amamos, pierde, posee, verdadera",
@@ -881,7 +842,7 @@
     "notas": "Escaneado automáticamente de IMG_3900.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1mbwK2zPNU4p4ngBfTXTgC1fClN2l3YMl/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e2f6f17c",
@@ -894,7 +855,7 @@
     "notas": "Escaneado automáticamente de IMG_3842.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1pJ4cWbCQa9rjsXzJjIw6WuG7Y9DLtUv3/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "019a6d29",
@@ -911,7 +872,7 @@
   },
   {
     "id": "f1506638",
-    "texto": "\"La niña de ojos claros nunca tuvo verdadera intención de hacerme daño.\nEstoy seguro de eso.\nElla simplemente siguió viviendo, riéndose, desapareciendo y regresando con esa ligereza cruel de quienes nunca entienden el desastre que dejan en otros.\nY yo, que alguna vez creí haber encontrado algo parecido a la felicidad, terminé habitando el silencio que dejan las ciudades después de una guerra: los cafés abiertos, las luces encendidas, la gente caminando como siempre.\ny, en medio de todo, un hombre mirando las ruinas invisibles de su propia vida.\"",
+    "texto": "La niña de ojos claros nunca tuvo verdadera intención de hacerme daño.\nEstoy seguro de eso.\nElla simplemente siguió viviendo, riéndose, desapareciendo y regresando con esa ligereza cruel de quienes nunca entienden el desastre que dejan en otros.\nY yo, que alguna vez creí haber encontrado algo parecido a la felicidad, terminé habitando el silencio que dejan las ciudades después de una guerra: los cafés abiertos, las luces encendidas, la gente caminando como siempre.\ny, en medio de todo, un hombre mirando las ruinas invisibles de su propia vida.",
     "autor": "",
     "tipo": "frase",
     "tags": "nina, ojos, claros, nunca, dejan",
@@ -920,11 +881,11 @@
     "notas": "Escaneado automáticamente de IMG_3887.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1uER06NS9-Zckb2ZtrTuK31k9UVrQppkY/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "c8a43a1e",
-    "texto": "\"Ahí sentado, bebiendo, consideré la idea del suicidio, pero sentí de pronto un extraño cariño por mi cuerpo, por mi\nvida. A pesar de sus cicatrices y\nmarcas, me pertenecian.\"",
+    "texto": "Ahí sentado, bebiendo, consideré la idea del suicidio, pero sentí de pronto un extraño cariño por mi cuerpo, por mi vida. A pesar de sus cicatrices y marcas, me pertenecian.",
     "autor": "Charles Bukowski",
     "tipo": "poema",
     "tags": "sentado, charles, bukowski, bebiendo, considere",
@@ -933,7 +894,7 @@
     "notas": "Escaneado automáticamente de IMG_3868.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1uH2EY2MdS97XMGVZjJzOKByV_7A3GP3-/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "c3098302",
@@ -1067,7 +1028,7 @@
   },
   {
     "id": "eb10845d",
-    "texto": "Jamás voy a olvidar el día en que te conocí, aquella noche en la que no pude dormir porque tu sonrisa se apoderó de mis sueños,\ncomo si no fuera\nsuficiente tener que\nelegir entre tanto de ti.\nElegir entre tanto de ti.\nSe guardó en diver",
+    "texto": "Jamás voy a olvidar el día en que te conocí, aquella noche en la que no pude dormir porque tu sonrisa se apoderó de mis sueños, como si no fuera suficiente tener que elegir entre tanto de ti.",
     "autor": "",
     "tipo": "poema",
     "tags": "elegir, jamas, olvidar, conoci, aquella",
@@ -1076,7 +1037,7 @@
     "notas": "Escaneado automáticamente de IMG_3815.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1FMYflMRXQfHx5gqDwEdFM18xVzbF-dmK/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "ce5f0599",
@@ -1093,7 +1054,7 @@
   },
   {
     "id": "1141c7db",
-    "texto": "\"A veces me parece que su risa aún habita ciertas noches. Es una risa breve, apenas un roce en la memoria, pero basta para que el mundo se detenga unos segundos y yo vuelva a ser aquel hombre ingenuo que la miraba como si en sus ojos claros estuviera escrita la promesa de toda una vida.\nEntonces le hablo.\nLe cuento en silencio las cosas que nunca supo: que envejecí un poco desde su partida, que aprendía fingir mejor la alegría, que he querido a otras mujeres con la decencia con la que se quiere lo posible... pero jamás con la insensatez con la que la quise a ella.\nA veces imagino que me escucha y sonríe con esa mueca traviesa que siempre parecía esconder un secreto.",
+    "texto": "A veces me parece que su risa aún habita ciertas noches. Es una risa breve, apenas un roce en la memoria, pero basta para que el mundo se detenga unos segundos y yo vuelva a ser aquel hombre ingenuo que la miraba como si en sus ojos claros estuviera escrita la promesa de toda una vida.\nEntonces le hablo.\nLe cuento en silencio las cosas que nunca supo: que envejecí un poco desde su partida, que aprendía fingir mejor la alegría, que he querido a otras mujeres con la decencia con la que se quiere lo posible... pero jamás con la insensatez con la que la quise a ella.\nA veces imagino que me escucha y sonríe con esa mueca traviesa que siempre parecía esconder un secreto.",
     "autor": "",
     "tipo": "frase",
     "tags": "veces, risa, parece, habita, ciertas",
@@ -1102,7 +1063,7 @@
     "notas": "Escaneado automáticamente de IMG_3814.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1EezZuBjjwerDqb9TC2tN2o-OqTEKfDcX/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "38a10ea2",
@@ -1128,7 +1089,7 @@
     "notas": "Escaneado automáticamente de IMG_3318.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1AfmJeMcyAVszbw75vMs3HOFMj9AfTfOM/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "68ee5aee",
@@ -1184,7 +1145,7 @@
   },
   {
     "id": "1ff8f27b",
-    "texto": "\"Es precisamente porque te amo, que te atormento\"\n \"Siempre hay tragedia en las amistades teñidas por el romance\"\n\"Vemos como extraños rostros que una vez amamos\"\n\"El amor significa tiranizar y ser moralmente superior\"\n\"De que sirve conquistar el mundo entero si jamas puedo amar en el\"",
+    "texto": "\"Es precisamente porque te amo, que te atormento\"\n\"Siempre hay tragedia en las amistades teñidas por el romance\"\n\"Vemos como extraños rostros que una vez amamos\"\n\"El amor significa tiranizar y ser moralmente superior\"\n\"De que sirve conquistar el mundo entero si jamas puedo amar en el\"",
     "autor": "",
     "tipo": "poema",
     "tags": "frases, amor, precisamente, atormento, siempre",
@@ -1193,7 +1154,7 @@
     "notas": "Escaneado automáticamente de IMG_3350.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1i056lEyK3UcXVH-uyNuX9QqTDJVRXBar/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "43d18a11",
@@ -1219,7 +1180,7 @@
     "notas": "Escaneado automáticamente de IMG_3343.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1BU-qYLf0n1lfNl38kCVUoy71eWnj5onm/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "0d2732f1",
@@ -1674,7 +1635,7 @@
     "notas": "Escaneado automáticamente de IMG_4204.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1r_7aX-PP-KGVjbTXOhKVEY6pwgrIwUuF/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "8f84b409",
@@ -1713,7 +1674,7 @@
     "notas": "Escaneado automáticamente de IMG_4201.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/16mO_hJBhIJMMDYYFsapIPoA6qIaH220l/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "01aeb3ab",
@@ -1726,7 +1687,7 @@
     "notas": "Escaneado automáticamente de IMG_4200.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1wPK6GEe-lxdJD7-BgInYhvLQRJlcrn0M/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "7b762ec1",
@@ -1765,7 +1726,7 @@
     "notas": "Escaneado automáticamente de IMG_4197.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1LGY5rd322wJ8C4cFcbT8GEs3urQ0fEke/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": 76231229,
@@ -1791,7 +1752,7 @@
     "notas": "Escaneado automáticamente de IMG_4191.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/13L2XY_HVKiHPXzN0y0v0do6l2uaXu5x7/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "810258ee",
@@ -1804,7 +1765,7 @@
     "notas": "Escaneado automáticamente de IMG_4190.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/16i9Z6odYcEHL6LSzSsJLPeiEXljrviaM/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "822c3dc1",
@@ -1817,7 +1778,7 @@
     "notas": "Escaneado automáticamente de IMG_4189.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1RFnXrpro__nhgqRqnpUhWszDgIWPErPh/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "af25e8e7",
@@ -1830,7 +1791,7 @@
     "notas": "Escaneado automáticamente de IMG_4188.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1U_HmMqokhNaTJGvQFQPnXDQR1BInFL3y/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "89a4ec2f",
@@ -1882,7 +1843,7 @@
     "notas": "Escaneado automáticamente de IMG_4181.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1CSBH1lXe-enZ7J2hJBXl7q6CBHCSafsW/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "f1ab5b2c",
@@ -2480,7 +2441,7 @@
     "notas": "Escaneado automáticamente de IMG_4130.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/12cQsmgmiZqdzhMzdo2LybXHdBjUnOl29/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "634f9938",
@@ -2506,11 +2467,11 @@
     "notas": "Escaneado automáticamente de IMG_4128.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/12S7EyGcKg0O8nwKBZymjLH5qeNcQ31W5/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "56d9b51d",
-    "texto": "\"Decirle \"hasta acá llegué\" a una persona que te está haciendo pedazos la cabeza, es salvarse la\nvida, no lo dudes.\"",
+    "texto": "Decirle \"hasta acá llegué\" a una persona que te está haciendo pedazos la cabeza, es salvarse la\nvida, no lo dudes.",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "decirle, llegue, persona, haciendo, pedazos",
@@ -2519,7 +2480,7 @@
     "notas": "Escaneado automáticamente de IMG_4127.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1KUmlcWRUk01iJOwSnOMozqDVckfNwi35/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "8ec10dcd",
@@ -2562,7 +2523,7 @@
   },
   {
     "id": "6836261c",
-    "texto": "\"Que dure lo que tenga que durar. Que dure meses, días o años, que dure una vida entera, que dure la eternidad, que dure un segundo, que dure un\nsusurro, pero que sea contigo\".",
+    "texto": "Que dure lo que tenga que durar. Que dure meses, días o años, que dure una vida entera, que dure la eternidad, que dure un segundo, que dure un susurro, pero que sea contigo",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "dure, mario, benedetti, tenga, durar",
@@ -2571,11 +2532,11 @@
     "notas": "Escaneado automáticamente de IMG_4123.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1hndFk9eLat7mTN1N6uS4U1c-IPBDeNL9/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "2644ab45",
-    "texto": "\"Algunos dicen que es doloroso esperar a alguien. Otros dicen que es doloroso olvidar a alguien.\nPero el peor dolor es cuando\nno se sabe si esperar u olvidar\".",
+    "texto": "Algunos dicen que es doloroso esperar a alguien. Otros dicen que es doloroso olvidar a alguien.\nPero el peor dolor es cuando\nno se sabe si esperar u olvidar",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "mario, benedetti, dicen, doloroso, esperar",
@@ -2584,7 +2545,7 @@
     "notas": "Escaneado automáticamente de IMG_4122.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1b7R5Nus90X4Riq6W-dnG2NfvVfotNcbA/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "10c74fda",
@@ -2597,11 +2558,11 @@
     "notas": "Escaneado automáticamente de IMG_4120.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/12lzgdV8gUK9qQGY3MJJj-Mz-4UyfotP7/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "57ad1ccd",
-    "texto": "\"A veces te levantas de la cama por la mañana y\npiensas, \"no voy a soportarlo\", pero te ríes para tus adentros recordando todas las veces que te has sentido así\".",
+    "texto": "A veces te levantas de la cama por la mañana y piensas, \"no voy a soportarlo\", pero te ríes para tus adentros recordando todas las veces que te has sentido así",
     "autor": "Charles Bukowski",
     "tipo": "poema",
     "tags": "veces, levantas, charles, bukowski, cama",
@@ -2610,11 +2571,11 @@
     "notas": "Escaneado automáticamente de IMG_4119.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1GEx28MECDea6TL4Cld0TgmZpl20edE8b/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "f347cde4",
-    "texto": "\"Yo comprendo perfecta y precisamente la distancia que nos separa, la\nimposibilidad absoluta de ver realizadas mis fantasías.\"",
+    "texto": "Yo comprendo perfecta y precisamente la distancia que nos separa, la\nimposibilidad absoluta de ver realizadas mis fantasías.",
     "autor": "",
     "tipo": "poema",
     "tags": "hablaba, amor, dependencia, dostoyevski, escribio",
@@ -2623,7 +2584,7 @@
     "notas": "Escaneado automáticamente de IMG_4115.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/139aOHdKzQKPAtjpzx_6MIFE-Xv1Wg03f/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "3768c0ad",
@@ -2636,7 +2597,7 @@
     "notas": "Escaneado automáticamente de IMG_4097.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1iR1PtT10OPD1zORf1FWEOicq7-aBv-QY/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e76d4237",
@@ -2653,7 +2614,7 @@
   },
   {
     "id": "b09b60fe",
-    "texto": "\"Tomémonos un momento, pero no dejemos esto sin resolver.\"",
+    "texto": "Tomémonos un momento, pero no dejemos esto sin resolver.",
     "autor": "",
     "tipo": "poema",
     "tags": "relaciones, terminan, tomemonos, momento, dejemos",
@@ -2662,7 +2623,7 @@
     "notas": "Escaneado automáticamente de IMG_4109.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1WSRzYxekophB0U_p_XdicFW1FoxTHg5P/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "c38d9b34",
@@ -2692,7 +2653,7 @@
   },
   {
     "id": "90867c39",
-    "texto": "No somos enemigos, somos un equipo.\"\nRecuerda contra qué están luchando realmente.\nFrases que salvan relaciones\nMuchas relaciones no terminan por\nfalta de amor...\nterminan por no saber qué decir en los momentos correctos.... más",
+    "texto": "No somos enemigos, somos un equipo.",
     "autor": "",
     "tipo": "poema",
     "tags": "somos, relaciones, terminan, enemigos, equipo",
@@ -2701,11 +2662,11 @@
     "notas": "Escaneado automáticamente de IMG_4106.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1euDvcn7drbKtrE-qxLBAtPSJRNgxjqJC/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "56dda80d",
-    "texto": "Perdón, reaccioné desde mi herida, no desde el amor.\"\nAsumir tu parte cambia todo.\nFrases que salvan relaciones\nMuchas relaciones no terminan por\nfalta de amor...\nterminan por no saber qué decir en los momentos correctos.... más",
+    "texto": "Perdón, reaccioné desde mi herida, no desde el amor.",
     "autor": "",
     "tipo": "poema",
     "tags": "amor, relaciones, terminan, perdon, reaccione",
@@ -2714,11 +2675,11 @@
     "notas": "Escaneado automáticamente de IMG_4105.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1a3JEMwVRq5kgkWXV4U40vRijIitWn828/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "8d07cbe8",
-    "texto": "\"Explícame cómo te sientes, te estoy escuchando.\"\nEscuchar sana más que tener la razón.\nFrases que salvan relaciones\nMuchas relaciones no terminan por\nfalta de amor...\nterminan por no saber qué decir en los momentos correctos.... más",
+    "texto": "Explícame cómo te sientes, te estoy escuchando.",
     "autor": "",
     "tipo": "poema",
     "tags": "relaciones, terminan, explicame, sientes, escuchando",
@@ -2727,11 +2688,11 @@
     "notas": "Escaneado automáticamente de IMG_4104.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1IqfiXbD673KLPymlrKgo2h8DMqGk5pT1/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "23335ad4",
-    "texto": "\"No quiero pelear, quiero entenderte.\"",
+    "texto": "No quiero pelear, quiero entenderte.",
     "autor": "",
     "tipo": "poema",
     "tags": "quiero, relaciones, terminan, pelear, entenderte",
@@ -2740,7 +2701,7 @@
     "notas": "Escaneado automáticamente de IMG_4103.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1fMh757pxZN3iWt0O8p2_2oGKlDTpbDUs/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "4d0dcd5e",
@@ -2753,11 +2714,11 @@
     "notas": "Escaneado automáticamente de IMG_4094.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1DeeNowPcJUYqcBQrg2knJGrrQo-5Ucxt/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e7089d32",
-    "texto": "\"Prefiero un cerebro antes que un corazón por qué un tonto no sabría amar.\"",
+    "texto": "Prefiero un cerebro antes que un corazón por qué un tonto no sabría amar.",
     "autor": "",
     "tipo": "frase",
     "tags": "prefiero, cerebro, corazon, tonto, sabria",
@@ -2766,7 +2727,7 @@
     "notas": "Escaneado automáticamente de IMG_4093.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1tvQ0nKY0RWgOeeUNT757ugk6-YIo6lvG/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "0afa0dc5",
@@ -2779,7 +2740,7 @@
     "notas": "Escaneado automáticamente de IMG_4086.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1yQ9QguB6vt-0jC9Lo7wpoCdoXWnef9cS/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "20fa99e6",
@@ -2792,7 +2753,7 @@
     "notas": "Escaneado automáticamente de IMG_4092.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1vQXQsXmUQfoZx4SI0y-ZjV5srHwVzFLU/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "0248f9ef",
@@ -2805,12 +2766,12 @@
     "notas": "Escaneado automáticamente de IMG_4088.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1VhYuAS4r6rr-E2Px6Dd7t8HipMeL6Bn0/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "503b2ff7",
-    "texto": "Lo dijo Mario Benedetti \"Nunca digas palabras hirientes cuando estés de mal humor, porque tu mal\nhumor pasará, pero las palabras quedarán como\ncicatrices en el alma de quien ofendiste.\"\nexistencia de la palabra",
-    "autor": "",
+    "texto": "Nunca digas palabras hirientes cuando estés de mal humor, porque tu mal\nhumor pasará, pero las palabras quedarán como\ncicatrices en el alma de quien ofendiste.",
+    "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "palabras, humor, dijo, mario, benedetti",
     "fecha": "2026-07-16",
@@ -2818,11 +2779,11 @@
     "notas": "Escaneado automáticamente de IMG_4087.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1rTNBQ3lnWuJgc7Kjf6Fj6ttuY8_AsKP_/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "44dd0106",
-    "texto": "\"Dejé de buscar a la chica de mis sueños... solo quería una que no fuera una pesadilla.\"",
+    "texto": "Dejé de buscar a la chica de mis sueños... solo quería una que no fuera una pesadilla.",
     "autor": "Charles Bukoswki",
     "tipo": "poema",
     "tags": "charles, deje, buscar, chica, suenos",
@@ -2831,7 +2792,7 @@
     "notas": "Escaneado automáticamente de IMG_4052.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/14w6RzcdDnr59A5ILhl0ps7mYhHyRKDC_/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "72e2aa82",
@@ -2844,7 +2805,7 @@
     "notas": "Escaneado automáticamente de IMG_4042.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1JpNcfOBdRqg5z1Bj1_KWET9rqtaJvfZO/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "51f2fbf6",
@@ -2857,7 +2818,7 @@
     "notas": "Escaneado automáticamente de IMG_4040.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1V_b6t49z3rEZNqfRrLnSNHP51WtoY6mH/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "5719fce1",
@@ -2870,7 +2831,7 @@
     "notas": "Escaneado automáticamente de IMG_4041.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1aflkjHK3OK_IVzB3qMaKyFh3EkIIw6x7/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "1cfc3131",
@@ -2883,7 +2844,7 @@
     "notas": "Escaneado automáticamente de IMG_4051.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1j4hJZH7rGW2Q8jG419R-TM6T65_1lElL/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "b026d21d",
@@ -2913,7 +2874,7 @@
   },
   {
     "id": 57842700,
-    "texto": "\"Sin arrepentirme de nada,\nporque yo sabía\nque el vidrio\nbranes\ncortaba y lo agarré con las\nmanos.\"",
+    "texto": "Sin arrepentirme de nada,\nporque yo sabía\nque el vidrio\ncortaba y lo agarré con las\nmanos.",
     "autor": "",
     "tipo": "poema",
     "tags": "arrepentirme, sabia, vidrio, branes, cortaba",
@@ -2922,7 +2883,7 @@
     "notas": "Escaneado automáticamente de IMG_4079.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1G-kSbRRQxGE1ACaxHy-HqkXhbD6mSH-K/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": 3831221,
@@ -2939,7 +2900,7 @@
   },
   {
     "id": "50aafbeb",
-    "texto": "\"Nos faltó tiempo y nos sobró amor, pero nos falló el destino. Sin embargo, no hay distancia que borre lo que significaste.\"",
+    "texto": "Nos faltó tiempo y nos sobró amor, pero nos falló el destino. Sin embargo, no hay distancia que borre lo que significaste.",
     "autor": "",
     "tipo": "frase",
     "tags": "falto, tiempo, sobro, amor, fallo",
@@ -2948,11 +2909,11 @@
     "notas": "Escaneado automáticamente de IMG_4076.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1iqEg-dWq2cuYau7g3WuViCNTA8OmNqha/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "9bf3912b",
-    "texto": "\"Bebe y morirás 10 años antes, fuma y moriras 30\naños antes, ama a alguien que no te ama y moriras diariamente\".",
+    "texto": "Bebe y morirás 10 años antes, fuma y moriras 30 años antes, ama a alguien que no te ama y moriras diariamente",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "moriras, anos, bebe, fuma, alguien",
@@ -2961,7 +2922,7 @@
     "notas": "Escaneado automáticamente de IMG_4072.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1PeI-SM7f5Xrm5JMen_aeMWzf007x1cku/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "283b677b",
@@ -2991,7 +2952,7 @@
   },
   {
     "id": "787f52d8",
-    "texto": "No te voy a mentir, hubo un momento en que lo vi venir y en el fondo lo sabía, pero es que joder, te\nquería tanto que no pude\nconfrontarte porque temía perderte. Y mira aquí estamos, creo que mi miedo solo compró algo de\ntiempo...",
+    "texto": "No te voy a mentir, hubo un momento en que lo vi venir y en el fondo lo sabía, pero es que joder, te\nquería tanto que no pude confrontarte porque temía perderte. Y mira aquí estamos, creo que mi miedo solo compró algo de tiempo...",
     "autor": "",
     "tipo": "poema",
     "tags": "mentir, hubo, momento, venir, fondo",
@@ -3000,7 +2961,7 @@
     "notas": "Escaneado automáticamente de IMG_4065.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/19TRYpRZ_n3DKqWRdOcdB4yTwSOYIPrLJ/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "42d6e235",
@@ -3013,11 +2974,11 @@
     "notas": "Escaneado automáticamente de IMG_4063.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1JG9rnjyh-lhSxKzNzarDAlvpB5060qjB/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "87ccabf0",
-    "texto": "\"Si muero aquí será porque no estaba destinado a llegar más lejos\"",
+    "texto": "Si muero aquí será porque no estaba destinado a llegar más lejos",
     "autor": "Roronoa Zoro",
     "tipo": "poema",
     "tags": "muero, aqui, roronoa, zoro, sera",
@@ -3026,7 +2987,7 @@
     "notas": "Escaneado automáticamente de IMG_4062.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/12xkfqm8DZf3Sy-keOVlZst70J1Holb2y/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "4de086cb",
@@ -3039,7 +3000,7 @@
     "notas": "Escaneado automáticamente de IMG_4060.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1maph9AofiWbZWVYCT8HxrDozgQ4nv8o9/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "33fc4638",
@@ -3078,7 +3039,7 @@
     "notas": "Escaneado automáticamente de IMG_4036.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1aMFwfhjeAsMWr-xtORMQVoFGkR7x54bq/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "6eb357cb",
@@ -3091,7 +3052,7 @@
     "notas": "Escaneado automáticamente de IMG_4027.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1K_OFMqaCYYfvu06bUeobp7kmjGU1EQqd/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "abe341d2",
@@ -3117,7 +3078,7 @@
     "notas": "Escaneado automáticamente de Captura de pantalla 2026-07-16 183317.png (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1TDc6nJMXZy7HhJHIFAV-5QKjgmoU_zNw/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "f2fad80d",
@@ -3130,7 +3091,7 @@
     "notas": "Escaneado automáticamente de IMG_4023.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1_PjgZ1EjIduxaMVoxNCLzffIIEb_kQs4/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "88c48700",
@@ -3172,19 +3133,6 @@
     "verificado": true
   },
   {
-    "id": "af3ff3d6",
-    "texto": "¿Por qué existes tú si ya estoy yo aquí?'\nY la amistad le respondió:\n'Para llevar una sonrisa donde tú has dejado lágrimas!\nEl crack\nLeea la descripción\nLo que entiendo de esa frase es que el amor puede traer felicidad, pero\ntambién dolor, decepciones o tristeza. En cambio, la amistad... más",
-    "autor": "",
-    "tipo": "poema",
-    "tags": "amistad, existes, aqui, respondio, llevar",
-    "fecha": "2026-07-16",
-    "proyecto": "",
-    "notas": "Escaneado automáticamente de IMG_3991.PNG (revisar limpieza de OCR)",
-    "imagenUrl": "https://drive.google.com/file/d/1GMNIjy_t7X5IaSGViIiRMiKzs-0EGlrY/view?usp=drivesdk",
-    "favorito": false,
-    "verificado": false
-  },
-  {
     "id": "388bd3e3",
     "texto": "Contigo una y otra vez, en esta y mil vidas más.",
     "autor": "",
@@ -3199,7 +3147,7 @@
   },
   {
     "id": "c832ff94",
-    "texto": "\"Los errores pueden corregirse. Si te rindes, entonces sí es un fracaso\"",
+    "texto": "Los errores pueden corregirse. Si te rindes, entonces sí es un fracaso",
     "autor": "",
     "tipo": "poema",
     "tags": "jamas, podre, superar, frase, errores",
@@ -3208,11 +3156,11 @@
     "notas": "Escaneado automáticamente de IMG_3995.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/13GPDOB8PJKNtIx2pf1zcClp6dmX94hHK/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "e91927e1",
-    "texto": "\"Madurar es aceptar que yo también fui el malo de algunas historias, que también hice daño a gente que quería y que no siempre tomé las mejores desiciones\"",
+    "texto": "Madurar es aceptar que yo también fui el malo de algunas historias, que también hice daño a gente que quería y que no siempre tomé las mejores desiciones",
     "autor": "",
     "tipo": "poema",
     "tags": "jamas, podre, superar, frase, madurar",
@@ -3221,7 +3169,7 @@
     "notas": "Escaneado automáticamente de IMG_3994.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1p5CscZjFkhaa0cQPkI2LubLOxxQvWetu/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "75d5bd87",
@@ -3247,11 +3195,11 @@
     "notas": "Escaneado automáticamente de IMG_3982.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1dhgR9DQozrcQSa1R3SKlCSbe8IdvCiaY/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "7788852b",
-    "texto": "\"Una de las peores bromas que te va jugar la vida es\nconocer a la persona\nindicada en el momento\nequivocado\"",
+    "texto": "Una de las peores bromas que te va jugar la vida es\nconocer a la persona\nindicada en el momento\nequivocado",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "vida, peores, bromas, jugar, conocer",
@@ -3260,7 +3208,7 @@
     "notas": "Escaneado automáticamente de IMG_3971.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1LT00-rl6gAeH_oGsTKmqC6t0HIfOaYc4/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "21f4af11",
@@ -3273,7 +3221,7 @@
     "notas": "Escaneado automáticamente de IMG_3970.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1ZqicYn7aaOq-OQdTLJK0wmFvnIJw-8u6/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "beeab4a8",
@@ -3290,7 +3238,7 @@
   },
   {
     "id": "fbb47a37",
-    "texto": "\"Me gustaría que estuvieras aquí conmigo, o yo allá contigo, o que estuviéramos juntos en cualquier lugar.\"",
+    "texto": "Me gustaría que estuvieras aquí conmigo, o yo allá contigo, o que estuviéramos juntos en cualquier lugar.",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "gustaria, estuvieras, aqui, conmigo, alla",
@@ -3299,7 +3247,7 @@
     "notas": "Escaneado automáticamente de IMG_3946.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1-OLUMw4a3lN7-xSl-ZMH65XhWjCcORcU/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "05bf7e51",
@@ -3325,7 +3273,7 @@
     "notas": "Escaneado automáticamente de IMG_3950.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1Fz32OOCLX_L0DZWuf2iAi80viWYGDdzr/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "d8bce3cf",
@@ -3342,7 +3290,7 @@
   },
   {
     "id": "f037b63d",
-    "texto": "\"Tengo la terrible sospecha de que cuando la muerte me arrebate mi dolor, perderé también mi alegría. No quiero ser feliz, quiero amar.\"",
+    "texto": "Tengo la terrible sospecha de que cuando la muerte me arrebate mi dolor, perderé también mi alegría. No quiero ser feliz, quiero amar.",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "quiero, terrible, sospecha, muerte, arrebate",
@@ -3351,7 +3299,7 @@
     "notas": "Escaneado automáticamente de IMG_3949.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1XchHSGFDVufkdHub3w-v8v_z65ScgRlA/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "57f0dc86",
@@ -3364,7 +3312,7 @@
     "notas": "Escaneado automáticamente de IMG_3947.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1ZNXtR3F58L8vnvY7Q39GJC6mIYHenYgY/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "6f149e79",
@@ -3390,7 +3338,7 @@
     "notas": "Escaneado automáticamente de IMG_3932.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1mkue1LuAEyE7uQNjhPqLXeWb_PjWmI91/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "d5415219",
@@ -3403,11 +3351,11 @@
     "notas": "Escaneado automáticamente de IMG_3924.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1pxKi72Xlxyrq9iTObq5Tn3LeNq6MQT9a/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   },
   {
     "id": "05d0275d",
-    "texto": "\"Si realmente el sufrimiento diera lecciones, el mundo estaría poblado solo de sabios. El dolor no tiene nada que enseñar a quienes no encuentran el coraje y la fuerza para escucharlo\"",
+    "texto": "Si realmente el sufrimiento diera lecciones, el mundo estaría poblado solo de sabios. El dolor no tiene nada que enseñar a quienes no encuentran el coraje y la fuerza para escucharlo",
     "autor": "Mario Benedetti",
     "tipo": "poema",
     "tags": "realmente, mundo, poblado, sabios, mario",
@@ -3416,6 +3364,6 @@
     "notas": "Escaneado automáticamente de IMG_3915.PNG (revisar limpieza de OCR)",
     "imagenUrl": "https://drive.google.com/file/d/1X7vyuZ_3k92Cfm8T_c6ra-m9qAdC3FYh/view?usp=drivesdk",
     "favorito": false,
-    "verificado": false
+    "verificado": true
   }
 ]
