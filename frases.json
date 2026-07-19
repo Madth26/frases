@@ -3378,5 +3378,31 @@
     "imagenUrl": "",
     "favorito": true,
     "verificado": true
+  },
+  {
+    "id": "a7534077",
+    "texto": "Y no es que no pueda vivir sin ti,\nes que prefiero que sea contigo.\nEn otra cama, no se duerme igual,\nsi no es de tu boca, no me gusta el vino",
+    "autor": "",
+    "tipo": "frase",
+    "tags": "",
+    "fecha": "2026-07-18",
+    "proyecto": "",
+    "notas": "",
+    "imagenUrl": "",
+    "favorito": false,
+    "verificado": true
+  },
+  {
+    "id": "4fe142ad",
+    "texto": "Ódiame o ámame, ambas están a mi favor. Si me amas, siempre voy a estar en tu corazón; si me odias, siempre voy a estar en tu mente.",
+    "autor": "",
+    "tipo": "frase",
+    "tags": "",
+    "fecha": "2026-07-18",
+    "proyecto": "",
+    "notas": "",
+    "imagenUrl": "",
+    "favorito": false,
+    "verificado": true
   }
 ]
